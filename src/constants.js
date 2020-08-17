@@ -1,0 +1,2 @@
+export const CHANGE_MSG_NUMBER = 'CHANGE_MSG_NUMBER';
+export const SET_ALREADY_IN = 'SET_ALREADY_IN';

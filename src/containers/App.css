@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Fondamento';
+font-weight: normal;
+src: url('Fondamento-Regular.ttf');
+}
+
+h1{
+  font-family: 'Fondamento', sans-serif;
+  opacity: 0.7;
+  color: #2c4c12;
+  font-style: italic;
+  display: inline;
+}
