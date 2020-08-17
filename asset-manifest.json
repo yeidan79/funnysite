@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/funnysite/static/css/main.e95378e7.chunk.css",
+    "main.js": "/funnysite/static/js/main.d5ca00c6.chunk.js",
+    "main.js.map": "/funnysite/static/js/main.d5ca00c6.chunk.js.map",
+    "runtime-main.js": "/funnysite/static/js/runtime-main.4eb5d52b.js",
+    "runtime-main.js.map": "/funnysite/static/js/runtime-main.4eb5d52b.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/funnysite/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.41a9d47f.chunk.js": "/funnysite/static/js/2.41a9d47f.chunk.js",
+    "static/js/2.41a9d47f.chunk.js.map": "/funnysite/static/js/2.41a9d47f.chunk.js.map",
+    "index.html": "/funnysite/index.html",
+    "precache-manifest.24851a466663256408821a2634d99045.js": "/funnysite/precache-manifest.24851a466663256408821a2634d99045.js",
+    "service-worker.js": "/funnysite/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/funnysite/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.e95378e7.chunk.css.map": "/funnysite/static/css/main.e95378e7.chunk.css.map",
+    "static/js/2.41a9d47f.chunk.js.LICENSE.txt": "/funnysite/static/js/2.41a9d47f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/funnysite/static/media/Fondamento-Regular.69c96fca.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eb5d52b.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.41a9d47f.chunk.js",
+    "static/css/main.e95378e7.chunk.css",
+    "static/js/main.d5ca00c6.chunk.js"
+  ]
+}
